@@ -1,0 +1,10 @@
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+pip install evaluation
+pip install mediapipe
+pip install mediapipe --user
+pip install mysql-connector
